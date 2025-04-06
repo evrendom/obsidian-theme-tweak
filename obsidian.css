@@ -291,7 +291,7 @@ body {
     var(--accent-s),
     calc(var(--accent-d) - 10%)
   );
-  --text-normal: rgb(197,184,161);
+  --text-normal: #FAF9F5;
   --text-muted:hsl(var(--base-h),var(--base-s),calc(var(--base-d) + 45%)); 
   --text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 47%));
   --text-error: #800000;
